@@ -16,6 +16,9 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
 
+server:
+  port: 8080
+
 jwt:
   secret: MY_SECRET_KEY_12345_SECRET_TO_SECRET
   expiration: 36000000
