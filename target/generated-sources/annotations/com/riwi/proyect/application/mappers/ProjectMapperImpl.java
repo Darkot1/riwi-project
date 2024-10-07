@@ -16,7 +16,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-10-06T22:18:58-0500",
+    date = "2024-10-06T22:34:16-0500",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.12 (Oracle Corporation)"
 )
 public class ProjectMapperImpl implements ProjectMapper {

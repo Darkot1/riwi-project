@@ -7,6 +7,7 @@ WORKDIR /app
 # Copia el archivo JAR de tu aplicación al contenedor
 COPY target/proyect-0.0.1-SNAPSHOT.jar app.jar
 
+
 # Expone el puerto en el que corre la aplicación
 EXPOSE 8080
 
